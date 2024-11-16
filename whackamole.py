@@ -4,6 +4,7 @@
 import pygame
 import random
 
+# main function
 def main():
     x = 0
     y = 0
